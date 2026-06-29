@@ -1,0 +1,19 @@
+A Program to show use of @ConditionalOnProperty annotation:
+Programs:
+* SpringBootCoreApplication4Application.java
+* ConditionalComponent1.java
+* ConditionalComponent2.java
+* ConditionalComponent3.java
+* ConditionalComponent4.java
+* ConditionalComponent5.java
+* TestRunner.java
+* AppConfig.java
+Notes:
+
+Output:
+ConditionalComponent1 [componentId=compnt-01, componentName=conditionalComponent1]
+null
+ConditionalComponent3 [componentId=compnt-03, componentName=conditionalComponent3]
+ConditionalComponent4 [componentId=compnt-04, componentName=conditionalComponent4]
+ConditionalComponent5 [componentId=compnt-05, componentName=conditionalComponent5]
+From SpringBootCoreApplication4Application class run method
