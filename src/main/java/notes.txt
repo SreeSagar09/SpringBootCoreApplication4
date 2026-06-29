@@ -9,6 +9,7 @@ Programs:
 * TestRunner.java
 * AppConfig.java
 Notes:
+* This @ConditionalOnProperty annotation can be used at class, method level.
 
 Output:
 ConditionalComponent1 [componentId=compnt-01, componentName=conditionalComponent1]
